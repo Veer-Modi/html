@@ -1,0 +1,174 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.class{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class6{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class7{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+.class8{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* width: 55vw;
+    height: 25vh; */
+
+}
+
+.class>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 19px;
+    height: 2px;
+}
+.class>div:nth-child(2n+1){
+    background-color: rgb(233, 11, 11);
+}
+.class>div:nth-child(2n){
+    background-color: white;
+}
+.class2>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 19px;
+    height: 3px;
+}
+.class2>div:nth-child(2n){
+    background-color: rgb(233, 11, 11);;
+}
+.class2>div:nth-child(2n+1){
+    background-color: white;
+}
+.class3>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 27px;
+    height: 2px;
+}
+.class3>div:nth-child(2n+1){
+    background-color: rgb(233, 11, 11);
+}
+.class3>div:nth-child(2n){
+    background-color: white;
+}
+.class4>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 27px;
+    height: 2px;
+}
+.class4>div:nth-child(2n){
+    background-color: rgb(233, 11, 11);;
+}
+.class4>div:nth-child(2n+1){
+    background-color: white;
+}
+.class5>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 27px;
+    height: 2px;
+}
+.class5>div:nth-child(2n+1){
+    background-color: rgb(233, 11, 11);;
+}
+.class5>div:nth-child(2n){
+    background-color: white;
+}
+.class6>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 27px;
+    height: 2px;
+}
+.class6>div:nth-child(2n){
+    background-color: rgb(233, 11, 11);;
+}
+.class6>div:nth-child(2n+1){
+    background-color: white;
+}
+.class7>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 19px;
+    height: 2px;
+}
+.class7>div:nth-child(2n+1){
+    background-color: rgb(233, 11, 11);
+}
+.class7>div:nth-child(2n){
+    background-color: white;
+}
+.class8>div{
+    border: 2px solid black;
+    /* background-color: wheat; */
+    padding: 19px;
+    height: 2px;
+}
+.class8>div:nth-child(2n){
+    background-color: rgb(233, 11, 11);
+}
+.class8>div:nth-child(2n+1){
+    background-color: white;
+}
